@@ -14,7 +14,7 @@
 ![Графік ймовірностей](https://github.com/IrynaHordiienko9/goit-algo-fp/blob/main/task%207.py/dice_probabilities_comparison.png)
 
 
-__Порівняння емпіричних та теоретичних ймовірностей:__
+__Результати:__
 
 Сума | Емпірична | Теоретична
 -----|-----------|-----------|
